@@ -38,4 +38,9 @@ h2{
     font-size: x-large;
 }
 
+input {
+    padding: 10px 20px;
+    outline: none;
+    margin: 3px;
+}
 
