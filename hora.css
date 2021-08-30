@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Hind:wght@300&display=swap');
+
+body{
+    background-color: rgb(247, 143, 105);
+    align-content: center;
+    text-align: center;
+    font-family: 'Hind', sans-serif;
+    color: white;
+    margin-top: 100px;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: crimson;
+}
+
+
+.container{
+    box-sizing: border-box;
+    border-radius: 75px;
+    display: inline-block;
+    padding: 10px 5px;
+    width: 70%;
+    background-color: rgb(245, 167, 139);
+}
+
+#divisão{
+    color: crimson;
+    width: 10%;
+    border-radius: 10px;
+}
+
+#results{
+    font-size: x-large;
+}
+
+
